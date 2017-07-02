@@ -11,6 +11,6 @@
 * 利用axios从API获取天气数据并且对添加城市存在性的判断
 * 输入框下拉菜单的候选城市的显示利用了lodash的延时功能，降低Ajax请求频率
 
-API：和风天气
+
 
 demo地址：http://summerscar.com/weather/weather.html
